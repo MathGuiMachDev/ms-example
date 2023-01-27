@@ -10,4 +10,6 @@ public class HrPayrollApplication {
 		SpringApplication.run(HrPayrollApplication.class, args);
 	}
 
+
+
 }
