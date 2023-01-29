@@ -1,4 +1,4 @@
-package com.mathguimachdev.hrpayroll.entities.template;
+package com.mathguimachdev.hrpayroll.entities.feign;
 
 import java.io.Serializable;
 import java.util.Objects;
